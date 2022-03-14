@@ -2430,7 +2430,7 @@ msgstr ""
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:78
 #: data/multiplayer/scenarios/9p_Merkwuerdigliebe.cfg:89
 msgid "teamname^Southeast"
-msgstr "Equipo sudoeste"
+msgstr "Equipo sudeste"
 
 #. [side]
 #: data/multiplayer/scenarios/4p_King_of_the_Hill.cfg:56
